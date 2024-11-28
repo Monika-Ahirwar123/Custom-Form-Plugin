@@ -1,2 +1,2 @@
 <?php /* Template Name: ABC*/
-//echo("hello");?>
+//echo("hello");?>  
